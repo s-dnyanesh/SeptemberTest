@@ -1,9 +1,9 @@
 
-public class SumOfTwo {
-	public static void main(String[] args) {
-	System.out.println(24+26);
-	System.out.println(50/3);
-	}
-	
-
+public class HelloWorld {
+	public static void main(String args[]) 
+    { 
+        System.out.println("Hello Dnyaneshwar"); 
+        //this is comment
+        /***this is comment*/
+    } 
 }
